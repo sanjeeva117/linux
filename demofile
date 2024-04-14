@@ -1,2 +1,8 @@
 hii hello how are you
+<<<<<<< HEAD
 wel come to the git clone
+=======
+wel come to to the git clone
+good evening everyone
+>>>>>>> new
+well come to the new clone
